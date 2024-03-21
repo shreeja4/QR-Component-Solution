@@ -1,2 +1,2 @@
 # HTML-CSS-Mini-Project
-My very first project
+This is my project repository.
