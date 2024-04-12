@@ -1,2 +1,2 @@
-# HTML-CSS-Mini-Project
-This is my project repository.
+# Frontend Mentor - QR code component solution
+
